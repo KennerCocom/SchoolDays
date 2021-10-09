@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "MyTexutures/nota"
+	"$alphatest" 1
+	"$translucent" 1
+}
+
