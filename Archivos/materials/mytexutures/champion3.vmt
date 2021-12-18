@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mytexutures/champion3"
+	"$alphatest" 1
+	"$translucent" 1
+}

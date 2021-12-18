@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mytexutures/CAMPE"
+	"$alphatest" 1
+	"$translucent" 1
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mytexutures/obey"
+	"$alphatest" 1
+}

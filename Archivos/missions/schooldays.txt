@@ -1,0 +1,41 @@
+"mission"
+{
+	"Name"		"SchoolDays"
+	"Version"       "5"
+	"Author"	"PinshePikashu"
+	"Website"	"http://steamcommunity.com/sharedfiles/filedetails/?id=1289128545"
+ 
+	
+	"DisplayTitle"	"SchoolDays"
+	"Description"  	"Sobrevive a los extraordinarios"
+ 	
+ 	"OuttroImage"	"vgui\OutroTitle_SchoolDays"
+ 
+	
+	
+"poster"
+	{
+		"posterImage"		"LoadingScreen_SchoolDays"
+		"posterImage_widescreen"    "LoadingScreen_SchoolDays"
+		"fullscreen"                            "1"		
+               }
+ 
+	"meleeweapons"	
+
+"baseball_bat;cricket_bat;crowbar;electric_guitar;fireaxe;frying_pan;golfclub;hunting_knife;katana;knife;machete;tonfa;riotshield;legosword;axe"
+
+	
+
+	"modes"
+	{
+		"survival"
+		{
+			"1"
+			{
+				"Map" "L4D_SV_ESTATLCTM-luces-2"
+				"DisplayName" "SchoolDays"
+				"Image" "maps/SchoolDaysSurvival"
+			}
+		}	
+	}
+}
