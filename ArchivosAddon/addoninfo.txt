@@ -14,7 +14,7 @@ addonContent_Versus 0
 //     addonURL0               "http://steamcommunity.com/sharedfiles/filedetails/?id=1289128545"    //An html home page for the add-on that includes a download link.
  
      // short description that appears in the Add-on list screen...
-     addonDescription        "Sobrevive a los extraordinarios"
+     addonDescription        "Se acerca el final...del semestre"
  
      // Authors can add localized descriptions here. (Not yet supported)
 //     addonDescription_FR     ""	

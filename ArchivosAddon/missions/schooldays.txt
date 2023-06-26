@@ -7,7 +7,7 @@
  
 	
 	"DisplayTitle"	"SchoolDays"
-	"Description"  	"Sobrevive a los extraordinarios"
+	"Description"  	"Se acerca el final... del semestre"
  	
  	"OuttroImage"	"vgui\OutroTitle_SchoolDays"
  
@@ -32,7 +32,7 @@
 		{
 			"1"
 			{
-				"Map" "L4D_SV_ESTATLCTM-luces-2"
+				"Map" "L4D_SV_ESTATALCTM_V2"
 				"DisplayName" "SchoolDays"
 				"Image" "maps/SchoolDaysSurvival"
 			}
