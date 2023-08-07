@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9520"
-	"mapversion" "45"
+	"mapversion" "50"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "45"
+	"mapversion" "50"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -76277,27 +76277,6 @@ world
 	}
 	group
 	{
-		"id" "41186"
-		editor
-		{
-			"color" "233 222 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "39254"
-		editor
-		{
-			"color" "233 222 0"
-			"groupid" "41186"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "45934"
 		editor
 		{
@@ -115759,25 +115738,10 @@ entity
 	{
 		"UseStart" "survival_explaner_proxyKill0-1"
 		"UseStart" "timbreVolume1001"
-		"UseStart" "Edificio aTurnOff3001"
 		"UseStart" "explosionVolume10101"
-		"UseStart" "edificio bTurnOff3001"
-		"UseStart" "edificio cTurnOff3001"
-		"UseStart" "luces_bañoTurnOff3001"
-		"UseStart" "Luz canchaTurnOff3001"
 		"UseStart" "timbreVolume071"
 		"UseStart" "explosionVolume0151"
-		"UseStart" "Luz canchaTurnOff4801"
-		"UseStart" "luces_bañoTurnOff4801"
-		"UseStart" "edificio cTurnOff4801"
-		"UseStart" "edificio bTurnOff4801"
-		"UseStart" "Edificio aTurnOff4801"
-		"UseStart" "PasilloTurnOff4801"
-		"UseStart" "Pasillo 2TurnOff4801"
-		"UseStart" "luces_bañoTurnOff3001"
-		"UseStart" "PasilloTurnOff3001"
-		"UseStart" "Pasillo 2TurnOff3001"
-		"UseStart" "lightsout_hintShowHint10-1"
+		"UseStart" "lightsout_hintEndHint11"
 	}
 	"origin" "486 2968.17 -41"
 	editor
@@ -161554,6 +161518,7 @@ entity
 	"skin" "0"
 	"solid" "6"
 	"spawnflags" "0"
+	"targetname" "survival_weapons"
 	"weaponskin" "-1"
 	"origin" "-659 2994.75 126"
 	editor
@@ -161575,6 +161540,7 @@ entity
 	"skin" "0"
 	"solid" "6"
 	"spawnflags" "0"
+	"targetname" "survival_weapons"
 	"weaponskin" "-1"
 	"origin" "-664 3012.75 122"
 	editor
@@ -169663,6 +169629,55 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1500]"
+	}
+}
+entity
+{
+	"id" "75467"
+	"classname" "info_target"
+	"angles" "0 0 0"
+	"spawnflags" "1"
+	"targetname" "lightout_hint_target"
+	"origin" "467.802 2965.7 -32.3522"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "75481"
+	"classname" "env_instructor_hint"
+	"hint_allow_nodraw_target" "1"
+	"hint_alphaoption" "0"
+	"hint_auto_start" "1"
+	"hint_caption" "Usa la radio para pedir ayuda"
+	"hint_color" "255 255 255"
+	"hint_display_limit" "0"
+	"hint_forcecaption" "0"
+	"hint_icon_offscreen" "icon_tip"
+	"hint_icon_offset" "0"
+	"hint_icon_onscreen" "icon_tip"
+	"hint_instance_type" "2"
+	"hint_nooffscreen" "0"
+	"hint_pulseoption" "0"
+	"hint_range" "0"
+	"hint_shakeoption" "0"
+	"hint_static" "0"
+	"hint_suppress_rest" "0"
+	"hint_target" "lightout_hint_target"
+	"hint_timeout" "0"
+	"targetname" "lightsout_hint"
+	"origin" "310.842 2969.46 -65"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 cameras

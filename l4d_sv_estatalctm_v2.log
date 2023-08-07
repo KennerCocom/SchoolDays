@@ -4575,3 +4575,819 @@ Level flags = 0
 Total triangle count: 34975
 Writing d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
 1 minute, 1 second elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading D:\Documents\GitHub\SchoolDays\L4D_SV_ESTATALCTM_V2.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 176 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Documents\GitHub\SchoolDays\L4D_SV_ESTATALCTM_V2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (503362 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_mouse.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_mouse.mdl"!
+Error! prop_static using model "models/props_plants/pottedplant_tall01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_plants/pottedplant_tall01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3075 texinfos to 2187
+Reduced 112 texdatas to 101 (2703 bytes to 2279)
+Writing D:\Documents\GitHub\SchoolDays\L4D_SV_ESTATALCTM_V2.bsp
+7 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.prt
+3370 portalclusters
+11920 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 527403 visible clusters (0.00%)
+Total clusters visible: 9330039
+Average clusters visible: 2768
+Building PAS...
+Average clusters audible: 3357
+visdatasize:2788221  compressed from 2857760
+writing d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+11622 faces
+123 degenerate faces
+663178 square feet [95497712.00 square inches]
+66 Displacements
+12901 Square Feet [1857862.75 Square Inches]
+11499 patches before subdivision
+81489 patches after subdivision
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 208.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 208.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 208.000000 but _zero_percent_distance of 0.000000
+193 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15909643, max 2007
+transfer lists: 121.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1276193, 1168049, 1004603)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(514449, 426045, 305088)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(238747, 176228, 107283)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(112457, 73056, 37163)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(56150, 32242, 13867)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(28186, 14274, 5143)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(14485, 6505, 1977)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(7456, 2969, 757)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3882, 1375, 296)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2021, 637, 115)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1060, 298, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(556, 139, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(293, 65, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(154, 31, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(82, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(43, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(23, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(12, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0345 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  97/1024         4656/49152    ( 9.5%) 
+brushes               1192/8192        14304/98304    (14.6%) 
+brushsides            9015/65536       72120/524288   (13.8%) 
+planes                7956/65536      159120/1310720  (12.1%) 
+vertexes             18935/65536      227220/786432   (28.9%) 
+nodes                 6248/65536      199936/2097152  ( 9.5%) 
+texinfos              2187/12288      157464/884736   (17.8%) 
+texdata                101/2048         3232/65536    ( 4.9%) 
+dispinfos               66/0           11616/0        ( 0.0%) 
+disp_verts            4242/0           84840/0        ( 0.0%) 
+disp_tris             6720/0           13440/0        ( 0.0%) 
+disp_lmsamples       48125/0           48125/0        ( 0.0%) 
+faces                11622/65536      650832/3670016  (17.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5280/65536      295680/3670016  ( 8.1%) 
+leaves                6346/65536      203072/2097152  ( 9.7%) 
+leaffaces            15122/65536       30244/131072   (23.1%) 
+leafbrushes           4211/65536        8422/131072   ( 6.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            79866/512000     319464/2048000  (15.6%) 
+edges                44866/256000     179464/1024000  (17.5%) 
+LDR worldlights        193/8192        19300/819200   ( 2.4%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/32768       16260/327680   ( 5.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         26136/65536       52272/131072   (39.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3865280/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2788221/16777216 (16.6%) 
+entdata               [variable]      861223/393216   (219.0%) VERY FULL!
+LDR ambient table     6346/65536       25384/262144   ( 9.7%) 
+HDR ambient table     6346/65536       25384/262144   ( 9.7%) 
+LDR leaf ambient     18691/65536      523348/1835008  (28.5%) 
+HDR leaf ambient      6346/65536      177688/1835008  ( 9.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/51712    ( 0.0%) 
+pakfile               [variable]      175270/0        ( 0.0%) 
+physics               [variable]      503362/4194304  (12.0%) 
+physics terrain       [variable]       12056/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 34975
+Writing d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+1 minute, 2 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading D:\Documents\GitHub\SchoolDays\L4D_SV_ESTATALCTM_V2.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 176 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Documents\GitHub\SchoolDays\L4D_SV_ESTATALCTM_V2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (503362 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_mouse.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_mouse.mdl"!
+Error! prop_static using model "models/props_plants/pottedplant_tall01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_plants/pottedplant_tall01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3075 texinfos to 2187
+Reduced 112 texdatas to 101 (2703 bytes to 2279)
+Writing D:\Documents\GitHub\SchoolDays\L4D_SV_ESTATALCTM_V2.bsp
+7 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.prt
+3370 portalclusters
+11920 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 527403 visible clusters (0.00%)
+Total clusters visible: 9330039
+Average clusters visible: 2768
+Building PAS...
+Average clusters audible: 3357
+visdatasize:2788221  compressed from 2857760
+writing d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+11622 faces
+123 degenerate faces
+663178 square feet [95497712.00 square inches]
+66 Displacements
+12901 Square Feet [1857862.75 Square Inches]
+11499 patches before subdivision
+81489 patches after subdivision
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 208.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 208.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 208.000000 but _zero_percent_distance of 0.000000
+193 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15909643, max 2007
+transfer lists: 121.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1276193, 1168049, 1004603)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(514449, 426045, 305088)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(238747, 176228, 107283)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(112457, 73056, 37163)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(56150, 32242, 13867)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(28186, 14274, 5143)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(14485, 6505, 1977)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(7456, 2969, 757)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3882, 1375, 296)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2021, 637, 115)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1060, 298, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(556, 139, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(293, 65, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(154, 31, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(82, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(43, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(23, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(12, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0301 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  97/1024         4656/49152    ( 9.5%) 
+brushes               1192/8192        14304/98304    (14.6%) 
+brushsides            9015/65536       72120/524288   (13.8%) 
+planes                7956/65536      159120/1310720  (12.1%) 
+vertexes             18935/65536      227220/786432   (28.9%) 
+nodes                 6248/65536      199936/2097152  ( 9.5%) 
+texinfos              2187/12288      157464/884736   (17.8%) 
+texdata                101/2048         3232/65536    ( 4.9%) 
+dispinfos               66/0           11616/0        ( 0.0%) 
+disp_verts            4242/0           84840/0        ( 0.0%) 
+disp_tris             6720/0           13440/0        ( 0.0%) 
+disp_lmsamples       48125/0           48125/0        ( 0.0%) 
+faces                11622/65536      650832/3670016  (17.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5280/65536      295680/3670016  ( 8.1%) 
+leaves                6346/65536      203072/2097152  ( 9.7%) 
+leaffaces            15122/65536       30244/131072   (23.1%) 
+leafbrushes           4211/65536        8422/131072   ( 6.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            79866/512000     319464/2048000  (15.6%) 
+edges                44866/256000     179464/1024000  (17.5%) 
+LDR worldlights        193/8192        19300/819200   ( 2.4%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/32768       16260/327680   ( 5.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         26136/65536       52272/131072   (39.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3865280/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2788221/16777216 (16.6%) 
+entdata               [variable]      861223/393216   (219.0%) VERY FULL!
+LDR ambient table     6346/65536       25384/262144   ( 9.7%) 
+HDR ambient table     6346/65536       25384/262144   ( 9.7%) 
+LDR leaf ambient     18691/65536      523348/1835008  (28.5%) 
+HDR leaf ambient      6346/65536      177688/1835008  ( 9.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/51712    ( 0.0%) 
+pakfile               [variable]      175270/0        ( 0.0%) 
+physics               [variable]      503362/4194304  (12.0%) 
+physics terrain       [variable]       12056/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 34975
+Writing d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+1 minute, 3 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading D:\Documents\GitHub\SchoolDays\L4D_SV_ESTATALCTM_V2.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 176 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Documents\GitHub\SchoolDays\L4D_SV_ESTATALCTM_V2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (503362 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_mouse.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_mouse.mdl"!
+Error! prop_static using model "models/props_plants/pottedplant_tall01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_plants/pottedplant_tall01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3075 texinfos to 2187
+Reduced 112 texdatas to 101 (2703 bytes to 2279)
+Writing D:\Documents\GitHub\SchoolDays\L4D_SV_ESTATALCTM_V2.bsp
+7 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.prt
+3370 portalclusters
+11920 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 527403 visible clusters (0.00%)
+Total clusters visible: 9330039
+Average clusters visible: 2768
+Building PAS...
+Average clusters audible: 3357
+visdatasize:2788221  compressed from 2857760
+writing d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+11622 faces
+123 degenerate faces
+663178 square feet [95497712.00 square inches]
+66 Displacements
+12901 Square Feet [1857862.75 Square Inches]
+11499 patches before subdivision
+81489 patches after subdivision
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 208.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 208.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 208.000000 but _zero_percent_distance of 0.000000
+193 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15909643, max 2007
+transfer lists: 121.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1276193, 1168049, 1004603)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(514449, 426045, 305088)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(238747, 176228, 107283)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(112457, 73056, 37163)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(56150, 32242, 13867)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(28186, 14274, 5143)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(14485, 6505, 1977)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(7456, 2969, 757)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3882, 1375, 296)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2021, 637, 115)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1060, 298, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(556, 139, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(293, 65, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(154, 31, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(82, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(43, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(23, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(12, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0298 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  97/1024         4656/49152    ( 9.5%) 
+brushes               1192/8192        14304/98304    (14.6%) 
+brushsides            9015/65536       72120/524288   (13.8%) 
+planes                7956/65536      159120/1310720  (12.1%) 
+vertexes             18935/65536      227220/786432   (28.9%) 
+nodes                 6248/65536      199936/2097152  ( 9.5%) 
+texinfos              2187/12288      157464/884736   (17.8%) 
+texdata                101/2048         3232/65536    ( 4.9%) 
+dispinfos               66/0           11616/0        ( 0.0%) 
+disp_verts            4242/0           84840/0        ( 0.0%) 
+disp_tris             6720/0           13440/0        ( 0.0%) 
+disp_lmsamples       48125/0           48125/0        ( 0.0%) 
+faces                11622/65536      650832/3670016  (17.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5280/65536      295680/3670016  ( 8.1%) 
+leaves                6346/65536      203072/2097152  ( 9.7%) 
+leaffaces            15122/65536       30244/131072   (23.1%) 
+leafbrushes           4211/65536        8422/131072   ( 6.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            79866/512000     319464/2048000  (15.6%) 
+edges                44866/256000     179464/1024000  (17.5%) 
+LDR worldlights        193/8192        19300/819200   ( 2.4%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/32768       16260/327680   ( 5.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         26136/65536       52272/131072   (39.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3865280/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2788221/16777216 (16.6%) 
+entdata               [variable]      861225/393216   (219.0%) VERY FULL!
+LDR ambient table     6346/65536       25384/262144   ( 9.7%) 
+HDR ambient table     6346/65536       25384/262144   ( 9.7%) 
+LDR leaf ambient     18691/65536      523348/1835008  (28.5%) 
+HDR leaf ambient      6346/65536      177688/1835008  ( 9.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/51712    ( 0.0%) 
+pakfile               [variable]      175270/0        ( 0.0%) 
+physics               [variable]      503362/4194304  (12.0%) 
+physics terrain       [variable]       12056/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 34975
+Writing d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+1 minute, 3 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading D:\Documents\GitHub\SchoolDays\L4D_SV_ESTATALCTM_V2.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 176 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Documents\GitHub\SchoolDays\L4D_SV_ESTATALCTM_V2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (503362 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_mouse.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_mouse.mdl"!
+Error! prop_static using model "models/props_plants/pottedplant_tall01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_plants/pottedplant_tall01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3075 texinfos to 2187
+Reduced 112 texdatas to 101 (2703 bytes to 2279)
+Writing D:\Documents\GitHub\SchoolDays\L4D_SV_ESTATALCTM_V2.bsp
+6 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.prt
+3370 portalclusters
+11920 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 527403 visible clusters (0.00%)
+Total clusters visible: 9330039
+Average clusters visible: 2768
+Building PAS...
+Average clusters audible: 3357
+visdatasize:2788221  compressed from 2857760
+writing d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+11622 faces
+123 degenerate faces
+663178 square feet [95497712.00 square inches]
+66 Displacements
+12901 Square Feet [1857862.75 Square Inches]
+11499 patches before subdivision
+81489 patches after subdivision
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 464.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 208.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 208.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 208.000000 but _zero_percent_distance of 0.000000
+193 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 15909643, max 2007
+transfer lists: 121.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1276193, 1168049, 1004603)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(514449, 426045, 305088)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(238747, 176228, 107283)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(112457, 73056, 37163)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(56150, 32242, 13867)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(28186, 14274, 5143)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(14485, 6505, 1977)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(7456, 2969, 757)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3882, 1375, 296)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2021, 637, 115)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1060, 298, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(556, 139, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(293, 65, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(154, 31, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(82, 15, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(43, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(23, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(12, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0255 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  97/1024         4656/49152    ( 9.5%) 
+brushes               1192/8192        14304/98304    (14.6%) 
+brushsides            9015/65536       72120/524288   (13.8%) 
+planes                7956/65536      159120/1310720  (12.1%) 
+vertexes             18935/65536      227220/786432   (28.9%) 
+nodes                 6248/65536      199936/2097152  ( 9.5%) 
+texinfos              2187/12288      157464/884736   (17.8%) 
+texdata                101/2048         3232/65536    ( 4.9%) 
+dispinfos               66/0           11616/0        ( 0.0%) 
+disp_verts            4242/0           84840/0        ( 0.0%) 
+disp_tris             6720/0           13440/0        ( 0.0%) 
+disp_lmsamples       48125/0           48125/0        ( 0.0%) 
+faces                11622/65536      650832/3670016  (17.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5280/65536      295680/3670016  ( 8.1%) 
+leaves                6346/65536      203072/2097152  ( 9.7%) 
+leaffaces            15122/65536       30244/131072   (23.1%) 
+leafbrushes           4211/65536        8422/131072   ( 6.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            79866/512000     319464/2048000  (15.6%) 
+edges                44866/256000     179464/1024000  (17.5%) 
+LDR worldlights        193/8192        19300/819200   ( 2.4%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1626/32768       16260/327680   ( 5.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         26136/65536       52272/131072   (39.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3865280/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2788221/16777216 (16.6%) 
+entdata               [variable]      861224/393216   (219.0%) VERY FULL!
+LDR ambient table     6346/65536       25384/262144   ( 9.7%) 
+HDR ambient table     6346/65536       25384/262144   ( 9.7%) 
+LDR leaf ambient     18691/65536      523348/1835008  (28.5%) 
+HDR leaf ambient      6346/65536      177688/1835008  ( 9.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/51712    ( 0.0%) 
+pakfile               [variable]      175270/0        ( 0.0%) 
+physics               [variable]      503362/4194304  (12.0%) 
+physics terrain       [variable]       12056/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 34975
+Writing d:\documents\github\schooldays\L4D_SV_ESTATALCTM_V2.bsp
+1 minute, 2 seconds elapsed
